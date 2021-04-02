@@ -9,3 +9,11 @@
     clear: both;
     visibility: hidden;
 }
+body{
+    
+}
+.wrap{
+    max-width: 1000px;
+    margin: 0 auto;
+    width: calc(100% - 32px);
+}
